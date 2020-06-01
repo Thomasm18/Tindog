@@ -59,10 +59,9 @@ body {
 
 /* Title Image */
 .title-img {
-  transform: rotate(25deg);
   width: 65%;
   position: absolute;
-  right: 20%;
+  left: 20%;
 }
 
 /* Features */
